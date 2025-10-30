@@ -4,31 +4,31 @@
   </a>
 </h1>
 
-### <a href="https://github.com/Utopiality7"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="28" height="28"></a> Github Profile Stats
+### <a href="https://github.com/ursawarriordev0127-dot"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="28" height="28"></a> Github Profile Stats
 
 <div align="center">
-  <a href="https://github.com/Utopiality7">
+  <a href="https://github.com/ursawarriordev0127-dot">
     <picture>
       <source
         media="(max-width: 768px)"
-        srcset="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed"
+        srcset="https://gh-readme-profile.vercel.app/api?username=ursawarriordev0127-dot&theme=github_light_highcontrast&hide=prs_merged,contributed"
       />
       <img
-        src="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed"
+        src="https://gh-readme-profile.vercel.app/api?username=ursawarriordev0127-dot&theme=github_light_highcontrast&hide=prs_merged,contributed"
         alt="GitHub Profile Stats"
         style="width: 49%; height: auto;"
       />
     </picture>
   </a>
 
-  <a href="https://github.com/Utopiality7">
+  <a href="https://github.com/ursawarriordev0127-dot">
     <picture>
       <source
         media="(max-width: 768px)"
-        srcset="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000"
+        srcset="https://github-readme-streak-stats.herokuapp.com?user=ursawarriordev0127-dot&card_height=204&border=000000"
       />
       <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000"
+        src="https://github-readme-streak-stats.herokuapp.com?user=ursawarriordev0127-dot&card_height=204&border=000000"
         alt="GitHub Streak Stats"
         style="width: 49%; height: auto;"
       />
@@ -37,14 +37,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Utopiality7">
+  <a href="https://github.com/ursawarriordev0127-dot">
     <picture>
       <source
         media="(max-width: 768px)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=Utopiality7&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8&height=400"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=ursawarriordev0127-dot&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8&height=400"
       />
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Utopiality7&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8&height=400"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=ursawarriordev0127-dot&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8&height=400"
         alt="GitHub Profile Stats"
         style="width: 98.5%; height: auto;"
       />
